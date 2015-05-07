@@ -12,19 +12,29 @@ namespace Generic.Server
     {
         static void Main(string[] args)
         {
-            //Test Logging
-            Log.InitSingleton();
-             
-            Log.Trace("A trace");
-            Log.Debug("A Debug");
-            Log.Info("A Info");
-            Log.Warn("A Warn");
-            Log.Error("A Error");
-            Log.Fatal("A Fatal");
+            //Initialize Singleton objects
+            Initialize();
 
+            //Todo: initialize and test DB access
 
-            Console.ReadKey();
+            //Load predefined values for Services 
+
+            //Test for Console Commands
+            Log.Info("Deneme");
+            //Apply new state
+            
+            //Uninitialize Singleton objects
+            Uninitialize();
+        }
+
+        private static void Uninitialize()
+        {
             Log.DestroySingleton();
+        }
+
+        private static void Initialize()
+        {
+            Log.InitSingleton();
         }
     }
 }
