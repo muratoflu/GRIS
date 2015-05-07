@@ -1,0 +1,8 @@
+C:\Users\Murat\Desktop\Server\Generic.Util\bin\Debug\Generic.Util.dll
+C:\Users\Murat\Desktop\Server\Generic.Util\bin\Debug\Generic.Util.pdb
+C:\Users\Murat\Desktop\Server\Generic.Util\obj\Debug\Generic.Util.dll
+C:\Users\Murat\Desktop\Server\Generic.Util\obj\Debug\Generic.Util.pdb
+C:\Users\Murat\Desktop\Test\Generic.Server\Generic.Util\bin\Debug\Generic.Util.dll
+C:\Users\Murat\Desktop\Test\Generic.Server\Generic.Util\bin\Debug\Generic.Util.pdb
+C:\Users\Murat\Desktop\Test\Generic.Server\Generic.Util\obj\Debug\Generic.Util.dll
+C:\Users\Murat\Desktop\Test\Generic.Server\Generic.Util\obj\Debug\Generic.Util.pdb
