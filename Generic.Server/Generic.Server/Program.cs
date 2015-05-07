@@ -12,7 +12,7 @@ namespace Generic.Server
     {
         static void Main(string[] args)
         {
-
+            //Test Logging
             Log.InitSingleton();
              
             Log.Trace("A trace");
