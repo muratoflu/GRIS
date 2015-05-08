@@ -17,3 +17,11 @@ C:\Users\Murat\Desktop\Test\External\NLog.Targets.GrowlNotify\obj\Debug\NLog.Tar
 C:\Users\Murat\Desktop\Test\External\NLog.Targets.GrowlNotify\obj\Debug\NLog.Targets.GrowlNotify.dll
 C:\Users\Murat\Desktop\Test\External\NLog.Targets.GrowlNotify\obj\Debug\NLog.Targets.GrowlNotify.pdb
 C:\Users\Murat\Desktop\Test\External\NLog.Targets.GrowlNotify\obj\Debug\NLog.Targets.GrowlNotify.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\GRIS\External\NLog.Targets.GrowlNotify\bin\Debug\NLog.Targets.GrowlNotify.dll
+C:\Users\Murat\Desktop\GRIS\External\NLog.Targets.GrowlNotify\bin\Debug\NLog.Targets.GrowlNotify.pdb
+C:\Users\Murat\Desktop\GRIS\External\NLog.Targets.GrowlNotify\bin\Debug\NLog.dll
+C:\Users\Murat\Desktop\GRIS\External\NLog.Targets.GrowlNotify\bin\Debug\NLog.xml
+C:\Users\Murat\Desktop\GRIS\External\NLog.Targets.GrowlNotify\obj\Debug\NLog.Targets.GrowlNotifyResources.resources
+C:\Users\Murat\Desktop\GRIS\External\NLog.Targets.GrowlNotify\obj\Debug\NLog.Targets.GrowlNotify.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\GRIS\External\NLog.Targets.GrowlNotify\obj\Debug\NLog.Targets.GrowlNotify.dll
+C:\Users\Murat\Desktop\GRIS\External\NLog.Targets.GrowlNotify\obj\Debug\NLog.Targets.GrowlNotify.pdb

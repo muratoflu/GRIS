@@ -5,4 +5,9 @@
     <PaperSizeForm>A4</PaperSizeForm> 
     <PaperDensity>80</PaperDensity>  
   </PaperType>
+  <PaperType>
+    <Id>yenibir</Id>
+    <PaperSizeForm>A2</PaperSizeForm>
+    <PaperDensity>22</PaperDensity>
+  </PaperType>
 </ArrayOfPaperType>  

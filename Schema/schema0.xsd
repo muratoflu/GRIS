@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="CBase" nillable="true" type="CBase" />
+  <xs:complexType name="CBase" abstract="true">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="Id" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="PaperType" nillable="true" type="PaperType" />
+  <xs:complexType name="PaperType">
+    <xs:complexContent mixed="false">
+      <xs:extension base="CBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="1" name="PaperSizeForm" type="xs:string" />
+          <xs:element minOccurs="1" maxOccurs="1" name="PaperDensity" type="xs:double" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ArrayOfPaperType" nillable="true" type="ArrayOfPaperType" />
+  <xs:complexType name="ArrayOfPaperType">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="PaperType" nillable="true" type="PaperType" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

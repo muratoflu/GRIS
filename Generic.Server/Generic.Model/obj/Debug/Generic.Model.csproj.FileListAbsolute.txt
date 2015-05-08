@@ -1,0 +1,4 @@
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.Model\bin\Debug\Generic.Model.dll
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.Model\bin\Debug\Generic.Model.pdb
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.Model\obj\Debug\Generic.Model.dll
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.Model\obj\Debug\Generic.Model.pdb

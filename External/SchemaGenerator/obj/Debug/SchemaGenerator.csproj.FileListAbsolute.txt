@@ -1,0 +1,6 @@
+C:\Users\Murat\Desktop\GRIS\External\SchemaGenerator\bin\Debug\SchemaGenerator.exe.config
+C:\Users\Murat\Desktop\GRIS\External\SchemaGenerator\bin\Debug\SchemaGenerator.exe
+C:\Users\Murat\Desktop\GRIS\External\SchemaGenerator\bin\Debug\SchemaGenerator.pdb
+C:\Users\Murat\Desktop\GRIS\External\SchemaGenerator\obj\Debug\SchemaGenerator.exe
+C:\Users\Murat\Desktop\GRIS\External\SchemaGenerator\obj\Debug\SchemaGenerator.pdb
+C:\Users\Murat\Desktop\GRIS\External\SchemaGenerator\bin\Debug\SchemaGenerator\xsd.exe

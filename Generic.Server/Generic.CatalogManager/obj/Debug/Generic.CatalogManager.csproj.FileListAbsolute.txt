@@ -1,0 +1,17 @@
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogManager\obj\Debug\Generic.CatalogManager.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogManager\bin\Debug\Generic.CatalogManager.dll
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogManager\bin\Debug\Generic.CatalogManager.pdb
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogManager\bin\Debug\Generic.Util.dll
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogManager\bin\Debug\Generic.Util.pdb
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogManager\obj\Debug\Generic.CatalogManager.dll
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogManager\obj\Debug\Generic.CatalogManager.pdb
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogManager\bin\Debug\Generic.Catalog.dll
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogManager\bin\Debug\Generic.Catalog.pdb
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogManager\bin\Debug\Growl.Connector.dll
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogManager\bin\Debug\Growl.CoreLibrary.dll
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogManager\bin\Debug\NLog.Designer.cs
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogManager\bin\Debug\NLog.config
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogManager\bin\Debug\Generic.Logging.dll
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogManager\bin\Debug\NLog.dll
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogManager\bin\Debug\Generic.Logging.pdb
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogManager\bin\Debug\NLog.xml

@@ -1,0 +1,4 @@
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.Catalog\bin\Debug\Generic.Catalog.dll
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.Catalog\bin\Debug\Generic.Catalog.pdb
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.Catalog\obj\Debug\Generic.Catalog.dll
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.Catalog\obj\Debug\Generic.Catalog.pdb

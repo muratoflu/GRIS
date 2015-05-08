@@ -1,0 +1,5 @@
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogEditor\bin\Debug\Generic.CatalogEditor.dll
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogEditor\bin\Debug\Generic.CatalogEditor.pdb
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogEditor\obj\Debug\Generic.CatalogEditor.dll
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogEditor\obj\Debug\Generic.CatalogEditor.pdb
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogEditor\bin\Debug\Storage\PaperTypes.xml

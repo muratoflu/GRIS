@@ -1,0 +1,72 @@
+2015-05-08 10:56:03.8354 INFO Deneme
+2015-05-08 11:02:06.3946 INFO Deneme
+2015-05-08 11:03:29.3804 INFO Deneme
+2015-05-08 11:37:18.9431 INFO Deneme
+2015-05-08 14:07:40.5523 INFO Deneme
+2015-05-08 14:19:20.8178 INFO Deneme
+2015-05-08 14:19:52.6605 INFO Deneme
+2015-05-08 14:20:11.8428 INFO Deneme
+2015-05-08 14:26:35.6676 INFO Deneme
+2015-05-08 14:28:39.1915 INFO Deneme
+2015-05-08 14:29:34.6717 INFO Deneme
+2015-05-08 14:35:08.7781 INFO Deneme
+2015-05-08 14:36:36.2912 TRACE Loaded PaperTypes
+2015-05-08 14:36:36.3022 INFO Deneme
+2015-05-08 14:36:56.7942 TRACE Loaded PaperTypes
+2015-05-08 14:38:01.4208 TRACE Loaded PaperTypes
+2015-05-08 20:30:05.2004 ERROR [EXCEPTION] System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <ArrayOfPaperType xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderStorage.Read6_Storage()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(Stream stream)
+   at Generic.CatalogManager.CatalogHelpers.LoadCatalog(Type type, String fileName) in c:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.CatalogManager\CatalogHelpers.cs:line 49
+2015-05-08 20:32:48.5972 ERROR [EXCEPTION] System.InvalidOperationException: System.Reflection.RuntimePropertyInfo cannot be serialized because it does not have a parameterless constructor.
+   at System.Xml.Serialization.TypeDesc.CheckSupported()
+   at System.Xml.Serialization.TypeScope.GetTypeDesc(Type type, MemberInfo source, Boolean directReference, Boolean throwOnError)
+   at System.Xml.Serialization.ModelScope.GetTypeModel(Type type, Boolean directReference)
+   at System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(Type type, XmlRootAttribute root, String defaultNamespace)
+   at System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   at System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   at Generic.CatalogManager.CatalogHelpers.LoadCatalog(Type type, String fileName)
+2015-05-08 20:32:50.3999 ERROR [EXCEPTION] System.NullReferenceException: Object reference not set to an instance of an object.
+   at Generic.CatalogManager.CatalogHelpers.LoadCatalog(Type type, String fileName)
+2015-05-08 20:33:52.2172 TRACE Loaded PaperTypes
+2015-05-08 20:40:27.8391 TRACE Loaded PaperTypes
+2015-05-08 21:20:07.5425 TRACE Loaded PaperTypes
+2015-05-08 21:21:38.3933 TRACE Loaded PaperTypes
+2015-05-08 21:22:48.1826 TRACE Loaded PaperTypes
+2015-05-08 21:22:55.2384 TRACE Loaded PaperTypes
+2015-05-08 21:23:11.7838 TRACE Loaded PaperTypes
+2015-05-08 21:24:37.4554 TRACE Server Started
+2015-05-08 21:24:37.4624 TRACE Loading Catalogs
+2015-05-08 21:24:37.5694 TRACE Loaded PaperTypes
+2015-05-08 21:24:37.5694 TRACE Loaded Catalogs
+2015-05-08 21:24:45.1755 TRACE End of session
+2015-05-08 21:25:09.3286 TRACE Server Started
+2015-05-08 21:25:09.3346 WARN Loading Catalogs
+2015-05-08 21:25:09.4426 TRACE Loaded PaperTypes
+2015-05-08 21:25:09.4446 TRACE Loaded Catalogs
+2015-05-08 21:25:49.6900 TRACE Server Started
+2015-05-08 21:25:49.7100 WARN Loading Catalogs...
+2015-05-08 21:25:49.8060 TRACE Loaded PaperTypes
+2015-05-08 21:25:49.8060 FATAL Loaded Catalogs... Done
+2015-05-08 21:25:53.0197 TRACE End of session
+2015-05-08 21:26:19.5333 WARN Server Started
+2015-05-08 21:26:19.5393 WARN Loading Catalogs...
+2015-05-08 21:26:19.6493 TRACE Loaded PaperTypes
+2015-05-08 21:26:19.6493 WARN Done Loading Catalogs.
+2015-05-08 21:26:23.1154 TRACE End of session
+2015-05-08 21:27:12.4555 WARN Server Started
+2015-05-08 21:27:12.4625 WARN Loading Catalogs...
+2015-05-08 21:27:12.5715 TRACE Loaded PaperTypes
+2015-05-08 21:27:12.5715 WARN Done Loading Catalogs.
+2015-05-08 21:27:13.5156 WARN Unloading Catalogs...
+2015-05-08 21:27:13.5156 WARN Done unloading Catalogs.
+2015-05-08 21:27:13.5216 WARN End of session
+2015-05-08 21:29:48.2655 WARN Server Started
+2015-05-08 21:29:48.2725 WARN Loading Catalogs...
+2015-05-08 21:29:48.3835 TRACE Loaded PaperTypes
+2015-05-08 21:30:05.6691 WARN Done Loading Catalogs.
+2015-05-08 21:30:15.4958 WARN Unloading Catalogs...
+2015-05-08 21:30:15.4958 WARN Done unloading Catalogs.
+2015-05-08 21:30:15.4958 WARN End of session
