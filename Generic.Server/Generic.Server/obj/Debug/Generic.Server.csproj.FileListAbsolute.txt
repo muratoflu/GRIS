@@ -34,3 +34,7 @@ C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.Server\bin\Debug\Generic.Logg
 C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.Server\bin\Debug\Generic.Util.pdb
 C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.Server\bin\Debug\NLog.xml
 C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.Server\obj\Debug\Generic.Server.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.Server\bin\Debug\Generic.CatalogManager.dll
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.Server\bin\Debug\Generic.Catalog.dll
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.Server\bin\Debug\Generic.CatalogManager.pdb
+C:\Users\Murat\Desktop\GRIS\Generic.Server\Generic.Server\bin\Debug\Generic.Catalog.pdb
